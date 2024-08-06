@@ -18,3 +18,7 @@ vim script.sh
 
 
 sh script.sh
+
+
+# id kano: This command checks if the user kano exists by trying to display their user ID.
+# &>/dev/null: This redirects both the standard output and standard error to /dev/null, effectively silencing the command. This means that even if the command produces output or errors, it will be discarded and not displayed.
