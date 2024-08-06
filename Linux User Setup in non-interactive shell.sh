@@ -3,7 +3,7 @@ ssh user@ip
 sudo useradd -m -s /sbin/nologin siva
 
 
-# This command:
+# This command:-
 
 # - Connects to the server with the specified IP address as the specified user via SSH
 # - Runs the useradd command with superuser privileges using sudo
